@@ -1,0 +1,8 @@
+D:\Project\Interview\Test\Testinv\bin\Debug\Testinv.exe.config
+D:\Project\Interview\Test\Testinv\bin\Debug\Testinv.exe
+D:\Project\Interview\Test\Testinv\bin\Debug\Testinv.pdb
+D:\Project\Interview\Test\Testinv\obj\Debug\Testinv.csproj.AssemblyReference.cache
+D:\Project\Interview\Test\Testinv\obj\Debug\Testinv.csproj.SuggestedBindingRedirects.cache
+D:\Project\Interview\Test\Testinv\obj\Debug\Testinv.csproj.CoreCompileInputs.cache
+D:\Project\Interview\Test\Testinv\obj\Debug\Testinv.exe
+D:\Project\Interview\Test\Testinv\obj\Debug\Testinv.pdb
